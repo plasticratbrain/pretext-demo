@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Syllabus</title>
+  <title>Syllabus for BIOL109</title>
 
   <introduction>
     <p>
-      Welcome to what promises to be an exciting and fun semester of ...
+      Welcome to what promises to be an <em>exciting</em> and fun semester of biology lab. 
     </p>
+
+    <p> Biology is like the force: it's all around us and through us. </p>
+  
+
   </introduction>
   <!-- Include chapters -->
   <subsection xml:id="sec-course-info">
     <title>Course Information</title>
 
     <p>
-      This is the syllabus for <term>course name (MATH xxx, section xxx)</term> for semester 20xx.
+      This is the syllabus for <term>Intro to Biology for Non-Majors</term> for Spring 2026.
       It is a x credit course.
       <dl>
       <li>
